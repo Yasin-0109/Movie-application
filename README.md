@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+React hooks have been used to develop the application. In addition, the frameworks React-Bootstrap and react-elastic-carousel have been used.
+The application design draws some inspiration from Netflix and Blockbuster. 
+
 ## Available Scripts
 
 In the project directory, you can run:
