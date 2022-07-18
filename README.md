@@ -1,7 +1,6 @@
-# Getting Started with Create React App
+# Wexo code challenge
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+This movie application allows users to search, filter, and add movies to their wishlist. 
 React hooks have been used to develop the application. In addition, the frameworks React-Bootstrap and react-elastic-carousel have been used.
 The application design draws some inspiration from Netflix and Blockbuster. 
 
