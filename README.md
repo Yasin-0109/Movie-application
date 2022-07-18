@@ -4,6 +4,10 @@ This movie application allows users to search, filter, and add movies to their w
 React hooks have been used to develop the application. In addition, the frameworks React-Bootstrap and react-elastic-carousel have been used.
 The application design draws some inspiration from Netflix and Blockbuster. 
 
+To run project:
+1. npm i
+2. npm start
+
 ## Available Scripts
 
 In the project directory, you can run:
