@@ -5,9 +5,53 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #221f1f;
+  color: white;
+}
+
+@font-face {
+  font-family: BebasNeue;
+  src: url(./fonts/BebasNeue-Regular.ttf);
+}
+
+.headers {
+  font-family: BebasNeue;
+  font-size: 25px;
+  line-height: 40px;
+  color: white;
+  padding-bottom: 15px;
+  padding-top:15px ;
+  display: inline-block;
+}
+
+.headers2 {
+  font-family: BebasNeue;
+  font-size: 50px;
+  line-height: 60px;
+  color: white;
+  padding-bottom: 15px;
+  padding-top:15px ;
+  display: inline-block;
+}
+
+.headers:hover{
+  color: red;
+  cursor: pointer;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.kdCslO {
+  display: none !important;
+}
+
+.avatar {
+  vertical-align: middle;
+  width: 50px;
+  height: 50px;
+  border-radius: 10%;
+}
+
